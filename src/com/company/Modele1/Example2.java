@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Modele1;
 
 import java.time.LocalTime;
 import java.util.Scanner;

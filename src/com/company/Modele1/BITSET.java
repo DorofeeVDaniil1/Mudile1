@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Modele1;
 
 import java.util.BitSet;
 import java.util.Scanner;
